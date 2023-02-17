@@ -1,0 +1,25 @@
+
+body, * {
+	font-family: "Fira Code" !important;
+	text-shadow: 2px 2px 0px black;
+}
+
+[aria-label="Open GIF picker"], [aria-label="Send a gift"], [aria-label="Open sticker picker"], [aria-label="Start Video Call"], [aria-label="Start Voice Call"], [aria-label="Help"], #private-channels-1, #private-channels-2 {
+	display: none;
+}
+
+* {
+    border-radius: 0px !important;
+}
+
+:root {
+	--background-primary: #171819;
+	--background-secondary: #141416;
+	--background-secondary-alt: #181a1e;
+	--background-tertiary: #0d0d10;
+	--background-accent: #151618;
+	--background-floating: #0e0e12;
+	--background-nested-floating: #16171a;
+	--text-normal: #dadada;
+	--text-muted: #d7d7d7;
+}
